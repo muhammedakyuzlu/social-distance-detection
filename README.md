@@ -4,10 +4,15 @@
 Before running the app :
 
 Dependencies:
+
   python3
+
   pafy 
+
   youtube-dl
+
   opencv-python
+
   numpy
 
 get the yolov4.weights from the link and but him in the same folder 
