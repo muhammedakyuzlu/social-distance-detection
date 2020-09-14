@@ -3,7 +3,7 @@
 
 Before running the app :
 
-Dependencies:
+*Dependencies:
  - python3
  - pafy 
  - youtube-dl
@@ -11,7 +11,7 @@ Dependencies:
  - numpy
 
 get the yolov4.weights from the link and but him in the same folder 
-https://drive.google.com/drive/folders/1iRga-qAcBRWe05dtOlLN6s4FUdPLmcpq?usp=sharing
+* https://drive.google.com/drive/folders/1iRga-qAcBRWe05dtOlLN6s4FUdPLmcpq?usp=sharing
 
 How to run :
 *  python3 Social-distance-detection.py [options] path
