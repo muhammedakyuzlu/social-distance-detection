@@ -10,7 +10,7 @@ Before running the app :
  - opencv-python
  - numpy
 
-get the **yolov4.weights** from the link and but him in the same folder 
+get the **yolov4.weights** from the link and but him in the same folder it is about**246 MB**
 * https://drive.google.com/drive/folders/1iRga-qAcBRWe05dtOlLN6s4FUdPLmcpq?usp=sharing
 
 # How to run :
