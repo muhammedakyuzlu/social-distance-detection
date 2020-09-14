@@ -3,7 +3,7 @@
 
 Before running the app :
 
-*Dependencies:
+* Dependencies:
  - python3
  - pafy 
  - youtube-dl
