@@ -24,7 +24,7 @@ get the **yolov4.weights** from the link and but him in the same folder it is ab
    -  -h for help
  
   path:
-   - path/url to the surce
+   - path/url to the source
     
 # EXAMPLES :   
 
