@@ -18,8 +18,7 @@ import os
 # Non-maximum Suppression
 # Take the boxes and measure the space between them by Euclidean form
 # Color the violates box red and the respact on green
-# Drawing Bounding Boxes with Labels and FPS
-# Showing processed frames in OpenCV Window
+# Drawing and Showing Bounding Boxes
 #--------------------------------------------------
 
 
@@ -157,7 +156,7 @@ def detector(is_video, path):
 
         # use get_output_layers function to get just what yolo forward need
         # ['yolo_82', 'yolo_94', 'yolo_106']
-        # outs retrun lists each list has 84 item first four are [0,1,2,3] center x ,center y ,width,hight
+        # outs return lists each list has 84 item first four are [0,1,2,3] center x ,center y ,width,hight
         # the rest 80 items are the confidence of each detection object
         outs = net.forward(get_output_layers(net))
 
